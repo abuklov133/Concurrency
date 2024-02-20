@@ -4,6 +4,7 @@
     <checkstyleVersion>10.13.0</checkstyleVersion>
     <scanScope>JavaOnlyWithTests</scanScope>
     <copyLibs>true</copyLibs>
+    <scanBeforeCheckin>true</scanBeforeCheckin>
     <option name="thirdPartyClasspath" />
     <option name="activeLocationIds">
       <option value="016b6e26-0091-4c46-a286-1abcbf8b8b5b" />
